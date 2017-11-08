@@ -12,6 +12,8 @@ public class readCSV_code {
 	public static void main(String[] args) {
 		
 		// .csv comma separated values
+		//Linea adicionada para probar los commit de Diego
+		
 		String fileName = "data.csv";
 		File file = new File(fileName); // TODO: read about File
 		try {
